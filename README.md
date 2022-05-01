@@ -34,6 +34,7 @@ GTmetrix
 3) LCP: 634ms
 4) Proof:
 ![Screenshot 2022-05-01 at 5 00 08 PM](https://user-images.githubusercontent.com/95274812/166150170-432a1a26-ac26-47e0-ba51-cf4be37e28d4.png)
+![Screenshot 2022-05-01 at 6 02 45 PM](https://user-images.githubusercontent.com/95274812/166150299-c515c40b-e9ca-4ec8-a4ff-b8c5fd681ec3.png)
  
  
 # Optimisation 
