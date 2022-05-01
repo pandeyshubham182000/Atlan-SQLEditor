@@ -1,0 +1,14 @@
+.dataTableDiv{
+  padding: 1.5%;
+  box-shadow: 2px 2px 20px 9px darkslategray;
+  background-color: darkslategray;
+}
+.atlanLogo{
+  height: 80px;
+  width: 100px;
+
+  border-radius: 0px 0px 20% 20%;
+  box-shadow: 5px 5px 7px black;
+  inset: 2px 2px 5px rgba(255,255,255,0.25);
+  inset :-3px -3px 5px rgba(0,0,0,0.5)
+}
