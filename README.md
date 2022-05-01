@@ -27,9 +27,14 @@ In this project i had used the following data :
 7.Refresh button: At the top right corner of the table refresh button is provided which whenever clicked will refresh the table. 
 
 # Performance Check
+
+GTmetrix
 1) The site receives "A" grade.
 2) Performance: 100%
 3) LCP: 634ms
+4) Proof:
+![Screenshot 2022-05-01 at 5 00 08 PM](https://user-images.githubusercontent.com/95274812/166150170-432a1a26-ac26-47e0-ba51-cf4be37e28d4.png)
+ 
  
 # Optimisation 
 1. First instead of installing bootstrap in our react app we can use CDN link provided and add it in our public index.html file. This make our application lightweight and smooth.
