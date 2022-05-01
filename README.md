@@ -16,6 +16,8 @@ In this project i had used the following data :
 
 2. Dynamic Table Views: The data is first fetched from JSON Server and to arrange them in a proper way react datatable is used which provides user a beautiful and smooth experience. React datatables are light weighted and are easy to use.
 
+3. Pagination: One of the most important feature that every application using table must have. I had used pagination in react datatable which solves the problem of scrooling and counting the records. It gives user a better experience and he is satisfied that every information about page and data is visible to him. 
+
 3. Search Bar: User can easily search the required data from the table, to make it more efficient search input field is provided where user has to type few letters and he is able to get all the records which matches.
 
 4. Sorting: User can also sort the data whenever needed, for this purpose at the end of each column name a button is provided which is visible when you hover on the column name.
