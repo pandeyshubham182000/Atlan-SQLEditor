@@ -2,6 +2,7 @@
 Thanks for giving a chance!! Welcome....
 
 # Screenshots of Website
+![Screenshot 2022-05-01 at 6 22 24 PM](https://user-images.githubusercontent.com/95274812/166149881-2249e321-44b4-454d-a367-ab5afe467238.png)
 
 # Discription
 This is an online SQL view editor built for the frontend task provided by Atlan.
