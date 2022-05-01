@@ -16,61 +16,12 @@ const Navbar = () => {
                                 <span className="nav-link active" aria-current="page">Welcome To Atlan Services</span>
                             </li>
                         </ul>
-                        <form className="d-flex"><button className="btn btn-outline-light" onClick={e=>{e.preventDefault()}}>We offer you career</button>
-                            
+                        <form className="d-flex">
+                            <button className="btn btn-outline-light" onClick={e=>{e.preventDefault()}}>We offer you career</button>
                         </form>
                     </div>
                 </div>
             </nav>
-            {/****************************************************************************************************/}
-            
-            {/****************************** Add country modal ************************************/}
-            <div className="modal fade" id="addModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                <div className="modal-dialog">
-                    <div className="modal-content">
-                        <div className="modal-header">
-                            <h5 className="modal-title" id="exampleModalLabel">Add Data</h5>
-                            <button type="button" className="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                        </div>
-                        <div className="modal-body">
-                            <form>
-                                <input
-                                    type="text"
-                                    className='w-15 form-control m-1'
-                                    placeholder="Country Name"
-                                    name="name"
-                                />
-                                <input
-                                    type="text"
-                                    className='form-control m-1'
-                                    placeholder="Country Code"
-                                    name="code"
-                                />
-                                <input
-                                    type="text"
-                                    className='form-control m-1'
-                                    placeholder="Country Capital"
-                                    name="capital"
-                                />
-                                <input
-                                    type="text"
-                                    className='form-control m-1'
-                                    placeholder="Flag Link"
-                                    name="image"
-                                />
-                                <input
-                                    type="text"
-                                    className='form-control m-1'
-                                    placeholder="Country Unicode"
-                                    name="unicode"
-                                />
-                                <button type="button" className="btn btn-warning mt-3">Add Country</button>
-
-                            </form>
-                        </div>
-                    </div>
-                </div>
-            </div>
             {/****************************************************************************************************/}
         </div>
     )
