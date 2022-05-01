@@ -8,7 +8,7 @@ Thanks for giving a chance!! Welcome....
 # Netlify
 Note: I have used the json server to get,put and delete the data, so my data is not fetched on netlify since it does not support live server. Please prefer to my you video link mentioned above.
 You Tube: https://youtu.be/3WoLsDHt8Q8
-Link: https://atlansqleditor.netlify.app
+Link: https://atlansqleditor.netlify.app (start json-server so that you can see data)
 
 
 
