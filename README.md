@@ -18,15 +18,18 @@ In this project i had used the following data :
 
 3. Pagination: One of the most important feature that every application using table must have. I had used pagination in react datatable which solves the problem of scrooling and counting the records. It gives user a better experience and he is satisfied that every information about page and data is visible to him. 
 
-3. Search Bar: User can easily search the required data from the table, to make it more efficient search input field is provided where user has to type few letters and he is able to get all the records which matches.
+  ![Screenshot 2022-05-01 at 6 22 24 PM](https://user-images.githubusercontent.com/95274812/166150637-6f4c27cb-093e-4aab-9e55-fe13e9fd577f.png)
 
-4. Sorting: User can also sort the data whenever needed, for this purpose at the end of each column name a button is provided which is visible when you hover on the column name.
 
-5. Delete Records: With the help of json server ( Dummy server ) users are allwed to delete their records also.
+4. Search Bar: User can easily search the required data from the table, to make it more efficient search input field is provided where user has to type few letters and he is able to get all the records which matches.
 
-6. Alerts: The user will also get alert whenever it is required, like if a user hit delete button then the alert made after deleting the data.
+5. Sorting: User can also sort the data whenever needed, for this purpose at the end of each column name a button is provided which is visible when you hover on the column name.
 
-7.Refresh button: At the top right corner of the table refresh button is provided which whenever clicked will refresh the table. 
+6. Delete Records: With the help of json server ( Dummy server ) users are allwed to delete their records also.
+
+7. Alerts: The user will also get alert whenever it is required, like if a user hit delete button then the alert made after deleting the data.
+
+8.Refresh button: At the top right corner of the table refresh button is provided which whenever clicked will refresh the table. 
 
 # Performance Check
 
