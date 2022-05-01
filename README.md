@@ -1,6 +1,17 @@
 # Atlan-SQLEditor
 Thanks for giving a chance!! Welcome....
 
+
+# Watch On You Tube
+ Link: https://youtu.be/3WoLsDHt8Q8
+ 
+# Netlify
+Note: I have used the json server to get,put and delete the data, so my data is not fetched on netlify since it does not support live server. Please prefer to my you video link mentioned above.
+You Tube: https://youtu.be/3WoLsDHt8Q8
+Link: https://atlansqleditor.netlify.app
+
+
+
 # Screenshots of Website
 ![Screenshot 2022-05-01 at 6 22 24 PM](https://user-images.githubusercontent.com/95274812/166149881-2249e321-44b4-454d-a367-ab5afe467238.png)
 
