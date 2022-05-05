@@ -6,9 +6,9 @@ Thanks for giving a chance!! Welcome....
  Link: https://youtu.be/3WoLsDHt8Q8
  
 # Netlify
-Note: I have used the json server to get,put and delete the data, so my data is not fetched on netlify since it does not support live server. Please prefer to my you video link mentioned above.
+Note: I have used the json server to get,put and delete the data, so my data is not fetched on netlify since it does not support live server. Please prefer to my you tube video link mentioned above.
 You Tube: https://youtu.be/3WoLsDHt8Q8
-Link: https://atlansqleditor.netlify.app (start json-server so that you can see data)
+netlify Link: https://atlansqleditor.netlify.app (start json-server so that you can see data)
 
 
 
@@ -19,7 +19,7 @@ Link: https://atlansqleditor.netlify.app (start json-server so that you can see 
 This is an online SQL view editor built for the frontend task provided by Atlan.
 
 # Tools and Technology used
-In this project i had used the following data :
+In this project i had used the following technologies :
 1) React          2) React MUI        3) Bootstrap      4)JSON Server ( As a dummy server)    
 
 # Features
@@ -73,5 +73,6 @@ This script allows you to start the json server at https://localhost:3004 and th
 
 # npm run build
 This script builds the app for production or deployment on internet, when you hit this script it is going to create a 'Build' folder which is required to deploy your website.
+
 
 
